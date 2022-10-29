@@ -2,8 +2,10 @@
 Future Ready Talent Project
 
 ## Microsoft Azure(Static Web App) Link:  https://polite-wave-0e0731410.2.azurestaticapps.net
+![Screenshot 2022-10-29 123037](https://user-images.githubusercontent.com/92667717/198818653-878ac517-17f5-48b2-9ae9-e073a167a7a9.png)
 
 ## Microsoft Azure(App Services) Link: https://fitnessfreakwebsite.azurewebsites.net
+![Screenshot 2022-10-29 123229](https://user-images.githubusercontent.com/92667717/198818657-74353e94-c0d4-4afb-bbb1-103a15efeb65.png)
 
 ## Home page
 ![Screenshot 2022-10-28 221233](https://user-images.githubusercontent.com/92667717/198689365-0a93b0db-a82a-469e-ae30-9f5d3b9d500b.png)
